@@ -1,0 +1,10 @@
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\bin\Debug\PrácticaRepositorio2.exe.config
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\bin\Debug\PrácticaRepositorio2.exe
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\bin\Debug\PrácticaRepositorio2.pdb
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\obj\Debug\PrácticaRepositorio2.csproj.AssemblyReference.cache
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\obj\Debug\PrácticaRepositorio2.Prueba.resources
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\obj\Debug\PrácticaRepositorio2.Properties.Resources.resources
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\obj\Debug\PrácticaRepositorio2.csproj.GenerateResource.cache
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\obj\Debug\PrácticaRepositorio2.csproj.CoreCompileInputs.cache
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\obj\Debug\PrácticaRepositorio2.exe
+C:\Users\ABC\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Universidad\Ciclo II\Programación I\Repsitorio Practica 2\PrácticaRepositorio2\obj\Debug\PrácticaRepositorio2.pdb
